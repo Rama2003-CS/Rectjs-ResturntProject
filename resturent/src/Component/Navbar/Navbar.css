@@ -4,8 +4,7 @@
 }
 .nav{
   width: 100%; 
-  background-image: url('https://i.pinimg.com/736x/48/fc/9d/48fc9d608a5cabe5c354a77fbf83f65b.jpg'); /* الصورة اللي استخدمتيها */
-  background-position: center;
+  background-image: url('https://i.pinimg.com/736x/48/fc/9d/48fc9d608a5cabe5c354a77fbf83f65b.jpg'); 
   height: 190px; 
   display: flex;
   justify-content: space-between;
