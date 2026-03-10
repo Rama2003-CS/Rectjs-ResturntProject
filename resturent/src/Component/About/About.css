@@ -1,0 +1,18 @@
+.about-container {
+text-align: center;
+padding: 20px;
+margin-top: 20px;
+}
+.about-container h1 {
+    font-weight: bold;
+    font-size:6rem;    
+}
+.about-container p {
+    font-size: 1.5rem;
+    margin-top: 20px;
+}
+.about-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 30px;
+}

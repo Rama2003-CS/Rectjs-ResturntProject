@@ -3,26 +3,30 @@
     padding: 0;
 }
 .nav{
-  width: 100%; 
-  background-image: url('https://i.pinimg.com/736x/48/fc/9d/48fc9d608a5cabe5c354a77fbf83f65b.jpg'); 
-  height: 190px; 
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0 50px;
-  position: fixed; 
-  top: 0;
-  left: 0;
-  z-index: 1000;
-  box-sizing: border-box;
+    width: 100%;
+    background-color: #ffffff; 
+    display: flex;
+    align-items: center;
+    position: fixed; 
+    top: 0;
+    left: 0;
+}
+.nav h4{
+    font-size: 2rem;
+    color: rgba(99, 132, 238, 0.911);
+    margin-left: 20px;
+    padding-right:900px;
 }
 
 .links{
-    gap : 20px;
+    gap : 60px;
     display: flex;
-    color: rgb(252, 252, 155);
+    color: rgb(185, 185, 4);
+    text-decoration: none;
+    
+    
 }
-a{
+.links a{
     margin-top: 0%;
-    color: rgb(252, 252, 155);
+    color: rgba(8, 26, 189, 0.815);
 }
